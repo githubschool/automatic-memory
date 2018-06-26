@@ -7,5 +7,4 @@ title: "Welcome to our slide deck!"
 {: .center}
 
 
-Hey please, valid my change ........
-
+Hey please, valid my change .... :-)

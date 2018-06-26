@@ -1,4 +1,4 @@
-# GitHub for Managers
+# GitHub 4 Managers
 
 - Class Date: June 25-26, 2018
 - Facilitator: @hectorsector
